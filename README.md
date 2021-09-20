@@ -1,4 +1,4 @@
-- ⚫ Hi, I’m @ShiroMaker ower crematório 
+- ⚫ Hi, I’m @ShiroMaker ower creator
 
 <!---
 ShiroMaker/ShiroMaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
